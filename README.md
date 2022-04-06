@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrewLuther
 - 👀 I’m interested in Programming and Electronic Music
-- 🌱 I’m currently studying Computer Science at Memorial University
+- 🌱 I’m a third year Computer Science Student at Memorial University
 - 📫 How to reach me: email agluther@mun.ca
 
 <!---
