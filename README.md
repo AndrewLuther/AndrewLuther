@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndrewLuther
-- 👀 I’m interested in Programming and Electronic Music
+- 👀 I’m interested in Software Development and Electronic Music
 - 🌱 I’m a third year Computer Science Student at Memorial University
 - 📫 How to reach me: email agluther@mun.ca
 
