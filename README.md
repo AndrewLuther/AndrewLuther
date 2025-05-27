@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrewLuther
-- 👀 I’m interested in Software Development and Electronic Music
-- 🌱 I’m a Computer Science/Music Composition Alumni from Memorial University, and am starting a Master's in Computer Science at York University in the Fall
+- 👀 I’m interested in Music Transcription, Software Development, and Electronic Music
+- 🌱 I’m a Computer Science Master's student at York University
 - 📫 How to reach me: email andrewgluther@gmail.com
 
 <!---
